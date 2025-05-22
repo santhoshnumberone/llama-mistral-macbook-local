@@ -11,7 +11,7 @@ In this guide, I show how to:
 
 Built as part of my learning journey into low-level LLM ops & LangChain pipeline design.
 
-✅ Read the guide here: [Medium link]  
+✅ Read the guide here: [Medium](https://medium.com/@santhoshnumber1/how-to-run-mistral-7b-llm-locally-on-mac-with-metal-using-llama-cpp-c24e0316741d)  
 🔗 GitHub repo: [GitHub link]
 
 If you’re working with LLMs on local machines or optimizing for resource-limited devices, I’d love to connect and hear your thoughts!
