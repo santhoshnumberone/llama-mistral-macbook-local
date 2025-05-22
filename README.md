@@ -1,4 +1,4 @@
-# llama-mistral-macbook-local
+> 🚀 Run Mistral-7B Locally on MacBook M1 with llama.cpp (GGUF + Metal)
 
 🚀 Just published a hands-on guide:  
 **“Run Mistral-7B Locally on MacBook M1 Using llama.cpp”**
