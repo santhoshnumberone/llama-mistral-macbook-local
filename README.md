@@ -4,6 +4,7 @@
 **“Run Mistral-7B Locally on MacBook M1 Using llama.cpp”**
 
 In this guide, I show how to:
+
 🔧 Build llama.cpp with Metal acceleration  
 🧠 Load Mistral-7B (Q4_K_M GGUF) model  
 💻 Run everything locally on an 8GB MacBook M1  
