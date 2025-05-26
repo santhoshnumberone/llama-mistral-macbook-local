@@ -16,4 +16,3 @@ Built as part of my learning journey into low-level LLM ops & LangChain pipeline
 
 If you’re working with LLMs on local machines or optimizing for resource-limited devices, I’d love to connect and hear your thoughts!
 
-#LLM #AI #llamacpp #Mistral #AppleSilicon #LangChain #LLMonEdge #opensource #remotework #AIjobs
